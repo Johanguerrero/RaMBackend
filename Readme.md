@@ -3,6 +3,14 @@
 
 # Proyecto Rick and Morty API
 
+Proyecto desarrollado por:
+Ana María Poveda
+Cristian Camilo Criales
+Johan Guerrero
+
+Materia: Ingeniería Web 2
+Docente: Ing. Wilson Ferney Molano
+
 ## Descripción del Proyecto
 
 Este proyecto es una aplicación web que permite a los usuarios buscar, crear y modificar personajes del universo de *Rick and Morty*. La aplicación utiliza una API externa que solo permite operaciones de lectura, por lo que las operaciones de creación y actualización se simulan con almacenamiento en memoria en un entorno de ejemplo. Sin embargo, en un entorno de producción, estas operaciones se conectarían a una base de datos MongoDB.
