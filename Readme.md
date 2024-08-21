@@ -206,14 +206,11 @@ document.getElementById('update-character-form').addEventListener('submit', func
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/rick-and-morty-api.git
+   git clone git@github.com:Johanguerrero/RaMBackend.git
    ```
 
 2. **Navegar al directorio del proyecto:**
-   ```bash
-   cd rick-and-morty-api
-   ```
-
+   
 3. **Instalar las dependencias del backend:**
    ```bash
    npm install
