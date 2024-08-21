@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Estilo para el contenedor principal */
+.container {
+    margin-top: 20px;
+}
+
+/* Tarjeta para formularios */
+.card-form {
+    border: 1px solid #dee2e6;
+    border-radius: .375rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+/* Título dentro de las tarjetas */
+.card-form h3 {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+/* Espaciado para el botón de respuesta */
+.response {
+    margin-top: 10px;
+}
+
+/* Card content for displaying characters */
+.card-content {
+    margin-bottom: 20px;
+}
+
+/* Margin for cards in character container */
+#character-container .card {
+    margin-bottom: 20px;
+}
